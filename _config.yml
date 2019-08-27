@@ -1,7 +1,7 @@
 # Site settings
 title: HJM Blog
 SEOTitle: 韩建盟的博客 | HJM Blog
-header-img: img/post-bg-desk.jpg
+header-img: 
 email: 952965698@qq.com
 description: "Every failure is leading towards success."
 keyword: "iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
