@@ -1,0 +1,16 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      Redis学习（一） Redis介绍 				# 标题 
+subtitle:   自己理解，学习一下 #副标题
+date:       2020-04-12 				# 时间
+author:     maomao 						# 作者
+header-img: img/Redis学习系列.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - Redis
+	- 学习
+---
+
+## Hey这是我的第一篇博客。
+# 初识Redis
+
